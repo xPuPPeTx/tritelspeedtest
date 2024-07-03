@@ -1,2 +1,2 @@
 # tritelspeedtest
-Speedtest4Tritel
+Speedtest4Tritel Nizenkovskiy
